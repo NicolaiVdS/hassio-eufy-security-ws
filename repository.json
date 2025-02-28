@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-on: eufy-security-ws",
-  "url": "https://github.com/bropat/hassio-eufy-security-ws",
-  "maintainer": "bropat <patrick.broetto@gmail.com>"
+  "name": "Home Assistant Add-on: eufy-security-ws C30 test",
+  "url": "https://github.com/nicolaivds/hassio-eufy-security-ws",
+  "maintainer": "NicolaiVdS <nicolai@nvds.be> & bropat <patrick.broetto@gmail.com>"
 }
